@@ -791,6 +791,26 @@ footer {
     margin: 10px;
   }
 
+  /* comming soon styles */
+  .section5 {
+    flex-direction: column;
+    width: 100%;
+  }
+  .leftsec,
+  .rightsec,
+  .leftsec .text1 {
+    text-align: center;
+    padding: 30px;
+  }
+
+  .section5 .container {
+    width: 100%;
+    margin: 20px;
+  }
+
+  .middlesec img {
+    width: 100%;
+  }
   /* place date time styles */
   .section4 {
     width: 100%;
@@ -818,6 +838,23 @@ footer {
   .port-desc {
     width: 100%;
     text-align: center;
+  }
+
+  /* subscriber styles */
+  .sec9 .container {
+    width: 100%;
+  }
+
+  .sec9 .dolor {
+    width: 100%;
+  }
+  .redsub {
+    width: 100%;
+    padding-right: 10px;
+  }
+  .sub-inp {
+    width: 100%;
+    padding: 20px;
   }
 
   /* footer styles */
